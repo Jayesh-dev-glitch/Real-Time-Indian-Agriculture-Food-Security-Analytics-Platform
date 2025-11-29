@@ -1,0 +1,6 @@
+city,temperature,humidity,pressure,weather,timestamp
+Delhi,24.05,41,1016,smoke,2025-11-24 14:18:30.101524
+Mumbai,31.99,55,1011,smoke,2025-11-24 14:18:31.246244
+Bangalore,26.07,63,1012,scattered clouds,2025-11-24 14:18:32.384367
+Chennai,29.24,76,1011,mist,2025-11-24 14:18:33.466565
+Kolkata,27.97,39,1013,haze,2025-11-24 14:18:34.620088
