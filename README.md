@@ -111,19 +111,6 @@ python dashboard/app.py
 
 ---
 
-## **📊 Sample Outputs**
-
-(Replace these links with your real images/plots)
-
-| Output Type               | Link                                         |
-| ------------------------- | -------------------------------------------- |
-| Price Forecast Chart      | 👉 `[Add your image or GitHub link here]`    |
-| Weather vs Yield Analysis | 👉 `[Add result here]`                       |
-| Food Security Heatmap     | 👉 `[Add heatmap here]`                      |
-| Dashboard Preview         | 👉 `[Add screenshot or Netlify/Render link]` |
-
----
-
 ## **🌱 Impact**
 
 AgriSense helps India advance toward smarter agriculture by:
